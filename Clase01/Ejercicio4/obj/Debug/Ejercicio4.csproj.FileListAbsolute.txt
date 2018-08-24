@@ -1,0 +1,6 @@
+D:\Alaniz Federico\Clase01\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Alaniz Federico\Clase01\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+D:\Alaniz Federico\Clase01\Ejercicio4\bin\Debug\Ejercicio4.exe
+D:\Alaniz Federico\Clase01\Ejercicio4\bin\Debug\Ejercicio4.pdb
+D:\Alaniz Federico\Clase01\Ejercicio4\obj\Debug\Ejercicio4.exe
+D:\Alaniz Federico\Clase01\Ejercicio4\obj\Debug\Ejercicio4.pdb
