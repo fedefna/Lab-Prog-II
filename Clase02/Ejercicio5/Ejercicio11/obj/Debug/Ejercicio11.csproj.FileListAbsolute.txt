@@ -1,0 +1,7 @@
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\Alaniz Federico\Clase02\Ejercicio5\Ejercicio11\obj\Debug\Ejercicio11.pdb
