@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,51 +12,51 @@ namespace Clase5
         private string marca;
         private float precio;
 
-        public Producto()
+        public Producto(string marca, string codigo, float precio)
         {
-            this.codigoDeBarra = "";
-            this.marca = "";
-            this.precio = 0;
+            this.codigoDeBarra = codigo;
+            this.marca = marca;
+            this.precio = precio;
         }
 
-        public string getcodigoDeBarra()
+        public string GetCodigoDeBarra()
         {
             return this.codigoDeBarra;
         }
 
-        public void setCodigoDeBarra(string codigo)
+        public void SetCodigoDeBarra(string codigo)
         {
             this.codigoDeBarra = codigo;
         }
 
-        public string getMarca()
+        public string GetMarca()
         {
             return this.marca;
         }
 
-        public void setMarca(string marca)
+        public void SetMarca(string marca)
         {
             this.marca = marca;
         }
 
-        public float getPrecio()
+        public float GetPrecio()
         {
             return this.precio;
         }
 
-        public void setPrecio(float precio)
+        public void SetPrecio(float precio)
         {
             this.precio = precio;
         }
 
-        public void mostrarProducto(Producto prod)
+        public void MostrarProducto(Producto prod)
         {
             Console.WriteLine("Codigo de barra: "+this.codigoDeBarra+". Marca: "+this.marca+". Precio: "+this.precio);
         }
 
         public static explicit operator string(Producto p)
         {
-            return p.getcodigoDeBarra();
+            return p.GetCodigoDeBarra();
         }
 
         public static bool operator == (Producto p1, Producto p2)

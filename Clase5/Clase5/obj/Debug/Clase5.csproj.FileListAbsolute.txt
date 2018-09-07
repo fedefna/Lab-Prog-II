@@ -1,0 +1,7 @@
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\obj\Debug\Clase5.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\obj\Debug\Clase5.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\bin\Debug\Clase5.exe.config
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\bin\Debug\Clase5.exe
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\bin\Debug\Clase5.pdb
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\obj\Debug\Clase5.exe
+C:\Users\alumno\Downloads\Lab-Prog-II-master\Lab-Prog-II-master\Clase5\Clase5\obj\Debug\Clase5.pdb
