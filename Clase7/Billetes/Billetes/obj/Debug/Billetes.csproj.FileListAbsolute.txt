@@ -1,0 +1,7 @@
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\obj\Debug\Billetes.csprojAssemblyReference.cache
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\obj\Debug\Billetes.csproj.CoreCompileInputs.cache
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\bin\Debug\Billetes.exe.config
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\bin\Debug\Billetes.exe
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\bin\Debug\Billetes.pdb
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\obj\Debug\Billetes.exe
+D:\AlanizFedericoNicolas\Clase7\Billetes\Billetes\obj\Debug\Billetes.pdb
