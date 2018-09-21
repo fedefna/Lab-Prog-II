@@ -1,0 +1,2 @@
+D:\AlanizFederico\Lab-Prog-II\Clase10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+D:\AlanizFederico\Lab-Prog-II\Clase10\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
