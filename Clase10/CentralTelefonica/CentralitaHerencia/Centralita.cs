@@ -22,6 +22,41 @@ namespace CentralitaHerencia
             }
         }
 
+        public float GananciasPorProvincial
+        {
+            get
+            {
+                float resultado = 0;
 
+                return resultado;
+            }
+        }
+
+        public float GananciasPorTotal
+        {
+            get
+            {
+                float resultado = 0;
+
+                return resultado;
+            }
+        }
+
+        public float Llamadas
+        {
+            get
+            {
+                float resultado = 0;
+
+                return resultado;
+            }
+        }
+
+        private float CalcularGanancia(Llamada.TipoLlamada tipoLlamada)
+        {
+            float resultado=0;
+
+            return resultado;
+        }
     }
 }
