@@ -1,0 +1,10 @@
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\VistaConsola.exe
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\Entidades.dll
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\Entidades.pdb
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.exe
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.pdb

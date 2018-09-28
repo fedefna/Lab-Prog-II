@@ -1,0 +1,5 @@
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\Entidades\bin\Debug\Entidades.dll
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\Entidades\bin\Debug\Entidades.pdb
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.dll
+D:\AlanizFederico\Lab-Prog-II\Ejemplo de parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.pdb
