@@ -49,7 +49,7 @@ namespace Entidades
         public virtual string ExponerDatos()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("Apellido: {0}. Nombre: {1}. Documento: {2}.\n", this.documento,this.nombre,this.documento);
+            sb.AppendFormat("Apellido: {0}. Nombre: {1}. Documento: {2}.\n", this.apellido,this.nombre,this.documento);
             return sb.ToString();
         }
 

@@ -40,7 +40,7 @@ namespace Entidades
         public static explicit operator string (Curso c)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("{0}. Profesor: {1}.\n", c.AnioDivision,c.profesor.ExponerDatos());
+            sb.AppendFormat("{0}. Datos del profesor:\n{1}.\n", c.AnioDivision,c.profesor.ExponerDatos());
 
             foreach(Alumno alumno in c.alumnos)
             {
