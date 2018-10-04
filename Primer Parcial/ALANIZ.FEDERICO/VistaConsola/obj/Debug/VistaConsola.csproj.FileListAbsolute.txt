@@ -1,0 +1,10 @@
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\VistaConsola.exe
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\Entidades.dll
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\bin\Debug\Entidades.pdb
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\VistaConsola\obj\Debug\VistaConsola.pdb

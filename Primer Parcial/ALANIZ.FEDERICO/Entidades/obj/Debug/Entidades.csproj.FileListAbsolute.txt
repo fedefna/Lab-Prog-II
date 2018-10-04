@@ -1,0 +1,6 @@
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\Entidades\bin\Debug\Entidades.dll
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\Entidades\bin\Debug\Entidades.pdb
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.dll
+D:\Alaniz Federico\Lab-Prog-II\Primer Parcial\ALANIZ.FEDERICO\Entidades\obj\Debug\Entidades.pdb
