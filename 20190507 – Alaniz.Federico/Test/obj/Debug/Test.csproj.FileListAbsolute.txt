@@ -1,0 +1,10 @@
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\bin\Debug\Test.exe.config
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\bin\Debug\Test.exe
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\bin\Debug\Test.pdb
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\bin\Debug\Entidades.dll
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\bin\Debug\Entidades.pdb
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\obj\Debug\Test.csproj.CopyComplete
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\obj\Debug\Test.exe
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Test\obj\Debug\Test.pdb

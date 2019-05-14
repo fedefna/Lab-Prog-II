@@ -1,0 +1,12 @@
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\20190507 – [Alaniz].[Federico]\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\alaniz\Lab-Prog-II\20190507 – Alaniz.Federico\Entidades\bin\Debug\Entidades.dll
+D:\alaniz\Lab-Prog-II\20190507 – Alaniz.Federico\Entidades\bin\Debug\Entidades.pdb
+D:\alaniz\Lab-Prog-II\20190507 – Alaniz.Federico\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\alaniz\Lab-Prog-II\20190507 – Alaniz.Federico\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\alaniz\Lab-Prog-II\20190507 – Alaniz.Federico\Entidades\obj\Debug\Entidades.dll
+D:\alaniz\Lab-Prog-II\20190507 – Alaniz.Federico\Entidades\obj\Debug\Entidades.pdb
