@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\bin\Debug\EntitiesDAO.dll
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\bin\Debug\EntitiesDAO.pdb
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\bin\Debug\Entities.dll
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\bin\Debug\Entities.pdb
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\Sp.Data.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\Sp.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\Sp.Data.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\EntitiesDAO.dll
+C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\EntitiesDAO.pdb

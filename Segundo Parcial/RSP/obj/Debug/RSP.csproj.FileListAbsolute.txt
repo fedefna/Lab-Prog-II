@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\SP\RSP\bin\Debug\RSP.exe.config
+C:\Users\LENOVO\source\repos\SP\RSP\bin\Debug\RSP.exe
+C:\Users\LENOVO\source\repos\SP\RSP\bin\Debug\RSP.pdb
+C:\Users\LENOVO\source\repos\SP\RSP\bin\Debug\Entities.dll
+C:\Users\LENOVO\source\repos\SP\RSP\bin\Debug\Entities.pdb
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.exe
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.pdb
+C:\Users\LENOVO\source\repos\SP\RSP\obj\Debug\RSP.FrmMessageSender.resources
