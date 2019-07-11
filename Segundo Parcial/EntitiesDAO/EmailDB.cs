@@ -6,73 +6,95 @@ using EntitiesDAO;
 
 namespace Persistencia
 {
-    public class EmailDB : IData<T>
+    public class EmailDB : IData<List<EmisorDeEmails>>
     {
-        private readonly string connectionString;
+        private string connectionString;
+        public static SqlCommand comando;
+        public static SqlConnection conexion;   
 
         /// <summary>
-        /// Asigna un valor al connectionString
+        /// Seteo los valores de conexion
         /// </summary>
         public EmailDB()
         {
             string dbName = "SP_2019";
             connectionString = "Data Source=.\\SQLEXPRESS; Initial Catalog=" + dbName + "; Integrated Security=True;";
-        }
 
-        public void Guardar(Emisor emisor, T datos)
-        {
-            
             try
             {
-                SqlCommand insertCommand = new SqlCommand();
-                insertCommand.CommandType = System.Data.CommandType.Text;
-                string insertText = "INSERT INTO dbo.Emails2 (Mensaje,Producto,Email) VALUES('"+emisor.Mensaje+"','"+emisor.Producto+"','"+emisor.Email+"')";
-                insertCommand.CommandText = insertText;
-                insertCommand.ExecuteNonQuery();
-                Console.WriteLine("Db insertion successfull");
+                conexion = new SqlConnection(connectionString);
+                comando = new SqlCommand();
+                comando.CommandType = System.Data.CommandType.Text;
+                comando.Connection = conexion;
             }
             catch (Exception e)
             {
-                Console.WriteLine("Failed on db insertion");
-                Console.WriteLine(e);
-            }
-            finally
-            {
-                Console.WriteLine("------------------------------");
+                throw e;
             }
         }
 
-        public T Leer<T>()
+        /// <summary>
+        /// /// Metodo que realiza un insert en la base de datos
+        /// </summary>
+        /// <param name="emisor"></param>
+        /// <returns></returns>
+        public void Guardar(Emisor emisor)
         {
             try
             {
-                // LE PASO LA INSTRUCCION SQL
-                this.comando.CommandText = "SELECT patente,tipo FROM " + tabla;
-                // ABRO LA CONEXION A LA BD
-                this.conexion.Open();
-                // EJECUTO EL COMMAND                 
-                SqlDataReader oDr = this.comando.ExecuteReader();
-                // MIENTRAS TENGA REGISTROS...
+                EmisorDeEmails emi = (EmisorDeEmails)emisor;
+                string insert = "INSERT INTO Emails2 (Mensaje,Producto,Email) VALUES('"+emi.Mensaje+"','"+emi.Producto+"','"+emi.Email+"')";
+                comando.CommandText = insert;
+                conexion.Open();
+                comando.ExecuteNonQuery();
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+            finally
+            {
+                conexion.Close();
+            }
+        }
+
+        /// <summary>
+        /// Lee la tabla indicada de la base y devuelve una lista con los registros que tenga la tabla.
+        /// </summary>
+        /// <returns></returns>
+        public List<EmisorDeEmails> Leer()
+        {
+            List<EmisorDeEmails> lstEmisores= new List<EmisorDeEmails>();
+            EmisorDeEmails emisor;
+
+            string consulta = String.Format("Select * from Emails2");
+
+            try
+            {
+                comando.CommandText = consulta;
+                conexion.Open();
+                SqlDataReader oDr = comando.ExecuteReader();
+
                 while (oDr.Read())
                 {
-                    // ACCEDO POR NOMBRE O POR INDICE
-                    datos.Enqueue(new Patente(oDr["patente"].ToString(), (Patente.Tipo)Enum.Parse(typeof(Patente.Tipo), oDr["tipo"].ToString())));
+                    string mensaje = oDr["Mensaje"].ToString();
+                    EProducto producto = (EProducto)Enum.Parse(typeof(EProducto),oDr["Producto"].ToString());
+                    //EProducto producto = (EProducto)oDr["Producto"];
+                    string email = oDr["Email"].ToString();
+                    emisor = new EmisorDeEmails(mensaje, producto, email);
+                    lstEmisores.Add(emisor);
                 }
-
-                //CIERRO EL DATAREADER
-                oDr.Close();
             }
             catch (Exception e)
             {
-                Console.WriteLine("Failed on db insertion");
-                Console.WriteLine(e);
-                return false;
+                throw e;
             }
             finally
             {
-                dataReader.Close();
-                Console.WriteLine("------------------------------");
+                conexion.Close();
             }
+
+            return lstEmisores;
         }
     }
 }

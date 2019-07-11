@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Windows.Forms;
 using Entities;
+using Persistencia;
 
 namespace SegundoParcial
 {
@@ -14,6 +15,8 @@ namespace SegundoParcial
         {
             InitializeComponent();
             hilos = new List<Thread>();
+
+            this.cmbProducto.Items.AddRange(Enum.GetNames(typeof(EProducto)));
         }
 
         /// <summary>
@@ -25,7 +28,14 @@ namespace SegundoParcial
         /// <param name="e"></param>
         private void BtnSendEmail_Click(object sender, EventArgs e)
         {
+            EmisorDeEmails emisorDeEmails = new EmisorDeEmails(this.richMensaje.Text, (EProducto)Enum.Parse(typeof(EProducto),this.cmbProducto.SelectedItem.ToString()), this.txtEmail.Text);
+            emisorDeEmails.eventMensaje += this.MostrarMensaje;
+            emisorDeEmails.eventMensaje += new EmailDB().Guardar;
 
+            Thread thread = new Thread(emisorDeEmails.EnviarMensaje);
+            thread.Start();
+
+            this.hilos.Add(thread);
         }
 
         /// <summary>
@@ -36,7 +46,12 @@ namespace SegundoParcial
         /// <param name="e"></param>
         private void BtnMailInfo_Click(object sender, EventArgs e)
         {
-
+            EmailDB emailDb = new EmailDB();
+            List<EmisorDeEmails> emisores = emailDb.Leer();
+            foreach (EmisorDeEmails item in emisores)
+            {
+                this.richOutPut.Text = item.Mostrar();
+            }
         }
 
         /// <summary>
@@ -49,7 +64,14 @@ namespace SegundoParcial
         /// <param name="e"></param>
         private void BtnSendWhat_Click(object sender, EventArgs e)
         {
+            EmisorDeWhatsapp emisorDeWhatsapp = new EmisorDeWhatsapp(this.richMensaje.Text, (EProducto)Enum.Parse(typeof(EProducto), this.cmbProducto.SelectedItem.ToString()));
+            emisorDeWhatsapp.eventMensaje += this.MostrarMensaje;
+            emisorDeWhatsapp.eventMensaje += new WhatsappTexto().Guardar;
 
+            Thread thread = new Thread(emisorDeWhatsapp.EnviarMensaje);
+            thread.Start();
+
+            this.hilos.Add(thread);
         }
 
         /// <summary>
@@ -60,7 +82,8 @@ namespace SegundoParcial
         /// <param name="e"></param>
         private void BtnWhatInfo_Click(object sender, EventArgs e)
         {
-
+            WhatsappTexto texto = new WhatsappTexto();
+            this.richOutPut.Text = texto.Leer();
         }
 
         /// <summary>
@@ -70,7 +93,7 @@ namespace SegundoParcial
         /// <param name="emisor"></param>
         private void MostrarMensaje(Emisor emisor)
         {
-
+            MessageBox.Show($"{emisor.GetType().Name} - Se envio mensaje del producto {emisor.Producto}");
         }
 
         /// <summary>
@@ -80,7 +103,10 @@ namespace SegundoParcial
         /// <param name="e"></param>
         private void FrmSender_FormClosed(object sender, FormClosedEventArgs e)
         {
-
+            foreach (var item in this.hilos)
+            {
+                item.Abort();
+            }
         }
     }
 }

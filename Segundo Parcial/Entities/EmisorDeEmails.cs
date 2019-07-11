@@ -21,8 +21,12 @@ namespace Entities
         /// </summary>
         public override void EnviarMensaje()
         {
-            Thread.Sleep(3000);
-            this.EventMensaje.Invoke(this);
+            if (true)
+            {
+                Thread.Sleep(3000);
+                this.EventMensaje.Invoke(this);
+            }
+            
         }
 
         public EmisorDeEmails(string mnsj, EProducto prod, string mail)

@@ -13,3 +13,18 @@ C:\Users\LENOVO\source\repos\SP\SegundoParcial\obj\Debug\Sp.Form.csproj.CoreComp
 C:\Users\LENOVO\source\repos\SP\SegundoParcial\obj\Debug\Sp.Form.csproj.CopyComplete
 C:\Users\LENOVO\source\repos\SP\SegundoParcial\obj\Debug\SegundoParcial.exe
 C:\Users\LENOVO\source\repos\SP\SegundoParcial\obj\Debug\SegundoParcial.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\Entities.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\EntitiesDAO.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\EntitiesDAO.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\bin\Debug\Entities.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SP.Form.csprojAssemblyReference.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SegundoParcial.FrmSender.resources
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SegundoParcial.Properties.Resources.resources
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SP.Form.csproj.GenerateResource.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SP.Form.csproj.CoreCompileInputs.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SP.Form.csproj.CopyComplete
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\SegundoParcial\obj\Debug\SegundoParcial.pdb

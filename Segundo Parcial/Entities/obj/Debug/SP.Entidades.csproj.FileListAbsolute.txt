@@ -4,3 +4,9 @@ C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\SP.Entidades.csproj.CoreCompi
 C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\Entities.dll
 C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\Entities.pdb
 C:\Users\LENOVO\source\repos\SP\Entities\obj\Debug\SP.Entidades.csprojAssemblyReference.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\Entities\bin\Debug\Entities.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\Entities\bin\Debug\Entities.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\Entities\obj\Debug\SP.Entidades.csprojAssemblyReference.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\Entities\obj\Debug\SP.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\Entities\obj\Debug\Entities.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\Entities\obj\Debug\Entities.pdb

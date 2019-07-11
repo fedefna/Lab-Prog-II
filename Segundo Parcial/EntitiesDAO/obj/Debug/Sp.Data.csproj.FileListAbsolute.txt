@@ -7,3 +7,12 @@ C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\Sp.Data.csproj.CoreCompile
 C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\Sp.Data.csproj.CopyComplete
 C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\EntitiesDAO.dll
 C:\Users\LENOVO\source\repos\SP\EntitiesDAO\obj\Debug\EntitiesDAO.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\bin\Debug\EntitiesDAO.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\bin\Debug\EntitiesDAO.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\bin\Debug\Entities.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\bin\Debug\Entities.pdb
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\obj\Debug\SP.Data.csprojAssemblyReference.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\obj\Debug\SP.Data.csproj.CoreCompileInputs.cache
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\obj\Debug\SP.Data.csproj.CopyComplete
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\obj\Debug\EntitiesDAO.dll
+C:\Users\alaniz\Documents\UTN\Lab-Prog-II\Segundo Parcial\EntitiesDAO\obj\Debug\EntitiesDAO.pdb

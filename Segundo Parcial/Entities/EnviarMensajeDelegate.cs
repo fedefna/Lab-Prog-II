@@ -2,5 +2,6 @@
 
 namespace Entities
 {
-    // Hacer el delegado 
+    // Hacer el delegado +
+    public delegate void EnviarMensajeDelegate(Emisor e);
 }

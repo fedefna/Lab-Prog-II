@@ -3,7 +3,7 @@ using System.Xml.Serialization;
 
 namespace Entities
 {
-    public delegate void EnviarMensajeDelegate(Emisor e);
+    
 
     /// <summary>
     /// Product types 
@@ -29,8 +29,17 @@ namespace Entities
         public string Mensaje { get => mensaje; set => mensaje = value; }
 
         [XmlIgnore]
-        public EnviarMensajeDelegate EventMensaje { get => EventMensaje; set => EventMensaje = value; }   
-        
+        public EnviarMensajeDelegate EventMensaje
+        {
+            get
+            {
+                return this.eventMensaje;
+            }
+            set
+            {
+                this.eventMensaje += value;
+            }
+        }
 
         public abstract void EnviarMensaje();
 

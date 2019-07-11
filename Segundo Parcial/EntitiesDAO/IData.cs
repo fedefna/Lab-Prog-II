@@ -9,7 +9,7 @@ namespace EntitiesDAO
 {
     public interface IData<T>
     {
-        void Guardar(Emisor emisor, T datos);
-        T Leer<T>();
+        void Guardar(Emisor emisor);
+        T Leer();
     }
 }
